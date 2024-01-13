@@ -22,7 +22,7 @@ Transmission Resilience: External factors, such as transmission glitches, rarely
 Usability: User-Friendly GUI: A Python-based GUI provides intuitive buttons for easy navigation and operation, making it accessible to users with basic computer knowledge.
 Modular Design: The system's modular architecture facilitates individual testing of each module, enabling efficient defect identification
 
-# Tools Used:
+## Tools Used:
 1. Programming Language:Python
 2. Libraries and Frameworks:
 Tkinter: Tkinter is used for creating the graphical user interface (GUI) of the application.
